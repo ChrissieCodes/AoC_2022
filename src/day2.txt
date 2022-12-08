@@ -1,0 +1,18 @@
+/
+$docker-compose up
+$ docker-compose exec app bash
+$docker-compose down
+*Oponents data: A for rock B for Paper C for Scissors 
+adjusted for change
+AX = 1+3 = 4
+AY = 2+6 = 8
+AZ = 3+0 = 3
+BX = 1+0 = 1
+BY = 2+3 = 5
+BZ = 3+6 = 9
+CX = 1+6 = 7
+CY = 2+0 = 2
+CZ = 3+3 = 6
+
+My data: X for rock Y for Paper Z for Scissors*/ 
+/*scores (1 for Rock, 2 for Paper, 3 for Scissors) + outcome(0, loss, 3 draw, 6 win)*/
